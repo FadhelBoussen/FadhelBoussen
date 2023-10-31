@@ -4,17 +4,31 @@
 
 ## A little more about me...  
 
--  I am an Embedded Linux Developer, interested in yocto build system and Linux device drivers development. 
--  I’m working on system programming, yet struggling to understand the linux kernel :/ 
--  Passionated with planet Saturn, galaxies, Black holes and space ^^  
--  Reach me with: samar.benali@sofia-technologies.com|benali.samar26@gmail.com <p align="left">
+<p align="left">
 <a href="https://www.linkedin.com/in/ben-ali-samar-721b66169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben-ali-samar-721b66169" height="30" width="40" /></a>
 
 <br>
 
 # <b>Languages and Tools : </b>
 <p align="left">
- 
+ <!-- c -->
+ <a
+    href="https://www.cprogramming.com/" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+        alt="c" width="40" height="40"
+    /> 
+ </a> 
+ <!-- cpp -->
+ <a 
+    href="https://isocpp.org/"
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+        alt="cplusplus" width="40" height="40"
+    /> 
+ </a>
  <!-- Python -->
  <a 
     href="https://www.python.org"
@@ -24,6 +38,8 @@
         width="40" height="40"
     /> 
  </a> 
+ <!-- arduino--> 
+ <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
  <!--bash-->
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <!-- git -->
@@ -35,7 +51,6 @@
         width="40" height="40"
     /> 
  </a> 
- 
  <!-- vs code -->
  <a 
     href="https://code.visualstudio.com/" 
