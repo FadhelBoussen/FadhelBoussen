@@ -1,16 +1,20 @@
+<img src="https://cdn.esawebb.org/archives/images/screen/weic2322a.jpg"  width="990" height="270">
 
 <br>
 
 ## A little more about me...  
 
--  I am a system and support engineer, interested in cybersecurity and networking.  
--  Reach me with: fadhel.boussen25@gmail.com<p align="left">
+-  I am an Embedded Linux Developer, interested in yocto build system and Linux device drivers development. 
+-  I’m working on system programming, yet struggling to understand the linux kernel :/ 
+-  Passionated with planet Saturn, galaxies, Black holes and space ^^  
+-  Reach me with: samar.benali@sofia-technologies.com|benali.samar26@gmail.com <p align="left">
 <a href="https://www.linkedin.com/in/ben-ali-samar-721b66169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben-ali-samar-721b66169" height="30" width="40" /></a>
 
 <br>
 
 # <b>Languages and Tools : </b>
 <p align="left">
+ 
  <!-- Python -->
  <a 
     href="https://www.python.org"
@@ -31,6 +35,7 @@
         width="40" height="40"
     /> 
  </a> 
+ 
  <!-- vs code -->
  <a 
     href="https://code.visualstudio.com/" 
