@@ -1,4 +1,4 @@
-<img src="https://cdn.esawebb.org/archives/images/screen/weic2322a.jpg"  width="990" height="270">
+
 
 <br>
 
@@ -38,8 +38,6 @@
         width="40" height="40"
     /> 
  </a> 
- <!-- arduino--> 
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
  <!--bash-->
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <!-- git -->
