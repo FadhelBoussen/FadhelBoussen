@@ -11,15 +11,7 @@
 
 # <b>Languages and Tools : </b>
 <p align="left"> 
- <!-- cpp -->
- <a 
-    href="https://isocpp.org/"
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-        alt="cplusplus" width="40" height="40"
-    /> 
- </a>
+ 
  <!-- Python -->
  <a 
     href="https://www.python.org"
