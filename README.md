@@ -14,7 +14,15 @@
 
 # <b>Languages and Tools : </b>
 <p align="left">
-
+ <!-- c -->
+ <a
+    href="https://www.cprogramming.com/" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+        alt="c" width="40" height="40"
+    /> 
+ </a> 
  <!-- cpp -->
  <a 
     href="https://isocpp.org/"
